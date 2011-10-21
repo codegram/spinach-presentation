@@ -2,7 +2,7 @@
 ![Spinach](spinach_logo.png)
 ## /spɪnɪtʃ/ ##
 
-!SLIDE bullets incremental center
+!SLIDE bullets incremental center smaller
 ![Spinach title](spinach_header.png)
 
 * Features are just *Ruby classes*
@@ -16,38 +16,38 @@
 
 ![Spinach steps](spinach_steps.png)
 
-!SLIDE incremental bullets
+!SLIDE incremental bullets smaller
 # Fighting *step madness* and *ambiguity* #
 
 * Each feature has its own steps (no global steps)
 * *Explicit* reusability through Ruby mixins
 
-!SLIDE incremental bullets
+!SLIDE incremental bullets smaller
 # Simple architecture #
 
 * Small codebase
 * Fully documented
 * Simple hooks system
 
-!SLIDE incremental bullets
+!SLIDE incremental bullets smaller
 # Ruby compatibility #
 
 * MRI 1.9
 * Rubinius/JRuby on the works
 
-!SLIDE incremental bullets
+!SLIDE incremental bullets smaller
 # Web framework compatibility #
 
 * spinach-rails
 * Any rack-based framework (Sinatra, Padrino, etc...)
 
-!SLIDE incremental bullets
+!SLIDE incremental bullets smaller
 # One step further #
 
 * Pregenerated features/steps packaged as gems
 * ?
 
-!SLIDE incremental bullets
+!SLIDE incremental bullets smaller
 # Thank you! #
 
 * http://github.com/codegram/spinach

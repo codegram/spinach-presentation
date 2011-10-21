@@ -1,12 +1,12 @@
 !SLIDE center
-# Codegram #
+![Codegram](codegram-big.png)
 
-!SLIDE small
+!SLIDE
 # We #
 # <3 #
 # Cucumber #
 
-!SLIDE small
+!SLIDE
 # </3 #
 
 !SLIDE center
